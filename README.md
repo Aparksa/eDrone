@@ -1,2 +1,0 @@
-# eDrone
-Created with CodeSandbox
